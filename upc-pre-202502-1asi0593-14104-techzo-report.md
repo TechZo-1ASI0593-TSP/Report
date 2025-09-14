@@ -465,6 +465,7 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 
 </div>	
     </div>
+	
 **Preferencias de Uso:** Valoran una plataforma intuitiva que facilite la búsqueda y el intercambio de productos. Prefieren opciones que ofrezcan seguridad y transparencia en las transacciones.<br><br>
 
 
