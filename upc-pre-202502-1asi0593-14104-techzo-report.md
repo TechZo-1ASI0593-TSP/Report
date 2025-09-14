@@ -482,7 +482,6 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 
 <br><br>
 
-
 <div style="page-break-after: always;"></div>
 
 # Capítulo II: Needfinding
@@ -1843,32 +1842,23 @@ En conclusión, el trabajo desarrollado hasta este punto sienta bases sólidas p
 
 <div style="page-break-after: always;"></div>
 
-# Bibliografía
-  <br>
+# Bibliografía  
+<br>
 
-+ Conventional Commits. (2023). *A specification for adding human and machine readable meaning to commit messages*. Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/  <br><br>
++ Humphrey, W. S. (2000). *Introduction to the Team Software Process (TSP)*. Addison-Wesley Professional. <br><br>
 
-+ CPI Research. (2022). *Perú: Población 2022*. CPI. https://cpi.pe/images/upload/paginaweb/archivo/23/poblacion%202022.pdf <br><br>
++ Humphrey, W. S. (2006). *TSP Coaching: A Guide for Team Leaders and Managers*. Addison-Wesley Professional. <br><br>
 
-+ Georgiou, M. (2024). *The importance of mobile app maintenance cost*. Imaginovation. https://imaginovation.net/blog/importance-mobile-app-maintenance-cost/ <br><br>
++ Humphrey, W. S. (2009). *Reflections on Management: How to Manage Your Software Projects, Your Teams, Your Boss, and Yourself*. Addison-Wesley Professional. <br><br>
 
-+ Huarachi-Coila, L. (2022). Mercado de trueque y seguridad alimentaria en los distritos de Acora e Ilave de Puno-Perú: periodo 2015-2017. *Semestre Económico, 11*(1), 28–43. https://doi.org/10.26867/se.2022.v11i1.126 <br><br>
++ McAndrews, D., & Shepherd, J. (2003). *TSPi: Introduction to the Team Software Process*. Addison-Wesley Professional. <br><br>
 
-+ Indeed. (2024). *How to write SMART goals*. Indeed. https://www.indeed.com/career-advice/career-development/how-to-write-smart-goals <br><br>
++ Nichols, W., & Linger, R. (2011). *Team Software Process (TSP) Body of Knowledge (BOK), Version 1.0*. Software Engineering Institute (SEI), Carnegie Mellon University. https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=9393 <br><br>
 
-+ Kruse-Andersen, P. K. (2023). Directed technical change, environmental sustainability, and population growth. *Journal of Environmental Economics and Management, 122*, 102885. https://doi.org/10.1016/j.jeem.2023.102885 <br><br>
++ Nichols, W., & Linger, R. (2014). *Guidelines for Using the Team Software Process (TSP) to Secure Software Development*. Software Engineering Institute (SEI), Carnegie Mellon University. https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=31073 <br><br>
 
-+ Liu, S., & Zhong, C. (2023). Green growth: Intellectual property conflicts and prospects in the extraction of natural resources for sustainable development. *Resources Policy, 80*, 104588. https://doi.org/10.1016/j.resourpol.2023.104588 <br><br>
++ SEI (2010). *Team Software Process (TSP) Overview*. Software Engineering Institute, Carnegie Mellon University. https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=9229 <br><br>
 
-+ Madaan, G., Singh, A., Mittal, A., & Shahare, P. (2024). Reduce, reuse, recycle: Circular economic principles, sustainability and entrepreneurship in developing ecosystems. *Journal of Small Business and Enterprise Development, ahead-of-print*. https://doi.org/10.1108/JSBED-01-2023-0009 <br><br>
-
-+ Morseletto, P. (2023). Sometimes linear, sometimes circular: States of the economy and transitions to the future. *Journal of Cleaner Production, 390*, 136138. https://doi.org/10.1016/j.jclepro.2023.136138 <br><br>
-
-+ Pivotal Tracker. (2024). *Quick start guide*. Pivotal Tracker. https://www.pivotaltracker.com/help/articles/quick_start/ <br><br>
-
-+ Wang, F., Nan, N., & Zhao, J. (2024). Configuring mobile app update strategy for growth: An empirical analysis of a landscape search model. *Industrial Management & Data Systems, 124*(3), 1155-1178. https://doi.org/10.1108/IMDS-03-2023-0181 <br><br>
-
-+ Zhao, S., Chen, S. H., Wang, F., Wei, Z. L., Zhong, J. C., & Liang, J. B. (2024). A large-scale mobile traffic dataset for mobile application identification. *Computer Journal, 67*(4), 1501-1513. https://doi.org/10.1093/comjnl/bxad076 <br><br>
-
++ Turner, R. (2003). *Balancing Agility and Discipline: A Guide for the Perplexed*. Addison-Wesley Professional. (Capítulos con relación a TSP y procesos disciplinados de equipo). <br><br>
 
 <div style="page-break-after: always;"></div>
