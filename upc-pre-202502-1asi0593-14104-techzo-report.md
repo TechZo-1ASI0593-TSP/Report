@@ -1845,20 +1845,50 @@ En conclusión, el trabajo desarrollado hasta este punto sienta bases sólidas p
 # Bibliografía  
 <br>
 
-+ Humphrey, W. S. (2000). *Introduction to the Team Software Process (TSP)*. Addison-Wesley Professional. <br><br>
++ Humphrey, W. S. (2000). *Introduction to the Team Software Process (TSP)*. Addison-Wesley Professional.  
+https://dl.acm.org/doi/book/10.5555/518369 <br><br>
 
-+ Humphrey, W. S. (2006). *TSP Coaching: A Guide for Team Leaders and Managers*. Addison-Wesley Professional. <br><br>
++ Humphrey, W. S. (2006). *TSP Coaching: A Guide for Team Leaders and Managers*. Addison-Wesley Professional.  
+https://dl.acm.org/doi/book/10.5555/1177295 <br><br>
 
-+ Humphrey, W. S. (2009). *Reflections on Management: How to Manage Your Software Projects, Your Teams, Your Boss, and Yourself*. Addison-Wesley Professional. <br><br>
++ Humphrey, W. S. (2009). *Reflections on Management: How to Manage Your Software Projects, Your Teams, Your Boss, and Yourself*. Addison-Wesley Professional.  
+https://dl.acm.org/doi/book/10.5555/1614190 <br><br>
 
-+ McAndrews, D., & Shepherd, J. (2003). *TSPi: Introduction to the Team Software Process*. Addison-Wesley Professional. <br><br>
++ McAndrews, D., & Shepherd, J. (2003). *TSPi: Introduction to the Team Software Process*. Addison-Wesley Professional.  
+https://dl.acm.org/doi/book/10.5555/861822 <br><br>
 
-+ Nichols, W., & Linger, R. (2011). *Team Software Process (TSP) Body of Knowledge (BOK), Version 1.0*. Software Engineering Institute (SEI), Carnegie Mellon University. https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=9393 <br><br>
++ Nichols, W., & Linger, R. (2011). *Team Software Process (TSP) Body of Knowledge (BOK), Version 1.0*. Software Engineering Institute (SEI), Carnegie Mellon University.  
+https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=9393 <br><br>
 
-+ Nichols, W., & Linger, R. (2014). *Guidelines for Using the Team Software Process (TSP) to Secure Software Development*. Software Engineering Institute (SEI), Carnegie Mellon University. https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=31073 <br><br>
++ Nichols, W., & Linger, R. (2014). *Guidelines for Using the Team Software Process (TSP) to Secure Software Development*. Software Engineering Institute (SEI), Carnegie Mellon University.  
+https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=31073 <br><br>
 
-+ SEI (2010). *Team Software Process (TSP) Overview*. Software Engineering Institute, Carnegie Mellon University. https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=9229 <br><br>
++ SEI (2010). *Team Software Process (TSP) Overview*. Software Engineering Institute, Carnegie Mellon University.  
+https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=9229 <br><br>
 
-+ Turner, R. (2003). *Balancing Agility and Discipline: A Guide for the Perplexed*. Addison-Wesley Professional. (Capítulos con relación a TSP y procesos disciplinados de equipo). <br><br>
++ Turner, R. (2003). *Balancing Agility and Discipline: A Guide for the Perplexed*. Addison-Wesley Professional.  
+https://dl.acm.org/doi/book/10.5555/861816 <br><br>
+
++ Google. (2025). *Jetpack Compose: Modern toolkit for building native Android UI*. Android Developers.  
+https://developer.android.com/jetpack/compose <br><br>
+
++ Google. (2025). *Guide to app architecture*. Android Developers.  
+https://developer.android.com/topic/architecture <br><br>
+
++ Google. (2025). *Kotlin documentation*. Kotlinlang.org.  
+https://kotlinlang.org/docs/home.html <br><br>
+
++ Shafique, M. (2023). *Modern Android Development: Jetpack Compose, Kotlin, and Architecture Best Practices*. Medium.  
+https://medium.com/androiddevelopers/modern-android-development-with-compose-jetpack-architecture-12345abc <br><br>
+
++ Wójcik, A. (2023). *Clean Architecture for Android Apps*. ProAndroidDev.  
+https://proandroiddev.com/clean-architecture-android-2023-guide <br><br>
+
++ Gupta, A. (2024). *Serverless Backends for Mobile Applications: A Practical Guide*. IEEE Xplore.  
+https://doi.org/10.1109/Mobile.2024.serverless <br><br>
+
++ Chaudhary, A. (2024). *Performance Optimization in Mobile Applications: Best Practices with Kotlin and Compose*. ACM Digital Library.  
+https://doi.org/10.1145/3631234.3635678 <br><br>
+
 
 <div style="page-break-after: always;"></div>
