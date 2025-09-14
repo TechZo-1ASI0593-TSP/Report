@@ -19,12 +19,33 @@
 
 ### Nombre del Producto: CambiaZo
 #### Relación de integrantes 
-| Integrante                  | Código         |
-|---------------------------------|----------------|
-| Huamani Mandujano, Joseph Alexis         | U20221A133     |
-| Mendoza Carrion, Mathias Andre          | U202216282     |
-| Quispe Andia, Jeremy Joel      | U202216279     |
-| Santisteban Palomino, Ian Haziel Donato | U202214059     |
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Integrante</th>
+      <th>Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Huamani Mandujano, Joseph Alexis</td>
+      <td>U20221A133</td>
+    </tr>
+    <tr>
+      <td>Mendoza Carrion, Mathias Andre</td>
+      <td>U202216282</td>
+    </tr>
+    <tr>
+      <td>Quispe Andia, Jeremy Joel</td>
+      <td>U202216279</td>
+    </tr>
+    <tr>
+      <td>Santisteban Palomino, Ian Haziel Donato</td>
+      <td>U202214059</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -314,9 +335,7 @@ Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas 
 
     + **¿Cuándo y cómo se utiliza nuestro producto?**<br> Nuestro producto es usado cuando los usuarios sientan que ya no necesitan más una pertenencia y en vez de solo desecharla, darle un nuevo uso para alguien más, intercambiándose por algo que sí necesite o realizando donaciones a organizaciones benéficas para aquellos que más lo necesitan.<br><br>
 
-
     + **¿Qué problemas resuelve nuestro producto?**<br>Cambiazo simplifica el intercambio y la donación de objetos, ofreciendo una plataforma segura y conveniente que promueve la reutilización y reduce el desperdicio. Con medidas de seguridad integradas, aborda las preocupaciones sobre transacciones fraudulentas, proporcionando una solución completa para una experiencia de intercambio confiable y sostenible.<br><br>
-
 
     + **¿Qué características son importantes?**<br> Que sea fácil de usar, intuitiva y que contenga las funcionalidades necesarias para que la experiencia del usuario sea la mejor, con opción de filtros para la búsqueda de ciertos artículos y/o también la inclusión de un chat privado entre usuarios para que puedan comunicarse y coordinar el intercambio, si es que ambos están de acuerdo con las pertenencias que ofrecen y desean recibir.<br><br>
 
