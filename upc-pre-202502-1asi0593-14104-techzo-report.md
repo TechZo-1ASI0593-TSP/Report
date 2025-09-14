@@ -42,32 +42,32 @@
 
 |**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
 | - | - | - | - |
-|1\.0|15/08/24|Ian Haziel Donato Santisteban Palomino|Se agregó la estructura inicial del proyecto.|
-|1\.1|15/08/24|Ian Haziel Donato Santisteban Palomino|Se inició el Capítulo I: Presentación y se agregó contenido relacionado con Startup Profile|
-|1\.1.1|19/08/24|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Solution Profile|
-|1\.1.2|19/08/24|<p>Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano </p><p> </p>|Se agregaron los perfiles de los integrantes y se comenzó con el proceso Lean UX Process|
-|1\.1.3|19/08/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se terminó de agregar el Lean UX Process y se agregó contenido relacionado con los Segmentos Objetivos|
-|1\.2|19/08/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se inició el Capítulo II: Needfinding y se agregó contenido relacionado a los Competidores|
-|1\.2.1|19/08/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó contenido relacionado con las Entrevistas|
-|1\.2.2|<p>21/08/24</p><p> </p>|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia |Se agregó contenido relacionado con el Needfinding y los artefactos correspondientes|
-|1\.2.3|22/08/24|Joseph Alexis Huamani Mandujano y Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con los User Persona y User Task Matrix|
-|1\.2.4|22/08/24|Jeremy Joel Quispe Andia |Se agregó contenido relacionado con los User Journey Mapping y Empathy Mapping|
-|1\.2.5|24/08/24|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con el As-is Scenario Mapping|
-|1\.2.6|24/08/24|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado al To-be|
-|1\.2.7|25/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregaron los Epics, User Stories y Technical Stories|
-|1\.2.8|25/04/24|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Impact Mapping|
-|1\.2.9|25/04/24|<p>Mathias Andre Mendoza Carrion</p>|Se agregó contenido relacionado con el Product Backlog|
-|1\.3|26/04/24|Joseph Alexis Huamani Mandujano y Mathias Andre Mendoza Carrion|Se agregaron las conclusiones y la bibliografía|
-|1\.4|26/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó el Student Outcome y la Tabla de Contenido|
-|2\.0|6/09/24|Jeremy Joel Quispe Andia e Ian Haziel Donato Santisteban Palomino|Se inició el Capítulo III: Arquitectura y se agregó contenido relacionado con los Style Guidelines|
-|2\.1|6/09/24|Jeremy Joel Quispe Andia|Se agregó contenido relacionado con la Information Architecture|
-|2\.1.1|7/09/24|Ian Haziel Donato Santisteban Palomino |Se comenzó con Mobile Applications UX/UI Design|
-|2\.1.2|8/09/24|Mathias Andre Mendoza Carrion|Se agrego contenido relacionado al Domain-Driven Software Architecture.|
-|2\.1.3|8/09/24|Mathias Andre Mendoza Carrion|Se agrego contenido relacionado al Software Object-Oriented Design|
-|2\.1.4|9/09/24|Ian Haziel Donato Santisteban Palomino, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion|Se comenzó con Landing Page UI Design.|
-|2\.1.5|13/09/24|Ian Haziel Donato Santisteban Palomino|Se terminó de agregar Mobile Applications UX/UI Design |
-|2\.1.6|13/09/24|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se terminó de agregar Landing Page UI Design.|
-|2\.1.7|21/11/2024|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia|Se agregó contenido relacionado con Conclusiones y Anexos.|
+|1.0|01/09/25|Ian Haziel Donato Santisteban Palomino|Se agregó la estructura inicial del proyecto.|
+|1.1|01/09/25|Ian Haziel Donato Santisteban Palomino|Se inició el Capítulo I: Presentación y se agregó contenido relacionado con Startup Profile|
+|1.1.1|02/09/25|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Solution Profile|
+|1.1.2|02/09/25|<p>Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano</p>|Se agregaron los perfiles de los integrantes y se comenzó con el proceso Lean UX Process|
+|1.1.3|03/09/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano|Se terminó de agregar el Lean UX Process y se agregó contenido relacionado con los Segmentos Objetivos|
+|1.2|03/09/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano|Se inició el Capítulo II: Needfinding y se agregó contenido relacionado a los Competidores|
+|1.2.1|04/09/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con las Entrevistas|
+|1.2.2|04/09/25|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia|Se agregó contenido relacionado con el Needfinding y los artefactos correspondientes|
+|1.2.3|05/09/25|Joseph Alexis Huamani Mandujano y Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con los User Persona y User Task Matrix|
+|1.2.4|05/09/25|Jeremy Joel Quispe Andia|Se agregó contenido relacionado con los User Journey Mapping y Empathy Mapping|
+|1.2.5|06/09/25|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con el As-is Scenario Mapping|
+|1.2.6|06/09/25|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado al To-be|
+|1.2.7|07/09/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano|Se agregaron los Epics, User Stories y Technical Stories|
+|1.2.8|07/09/25|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Impact Mapping|
+|1.2.9|08/09/25|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con el Product Backlog|
+|1.3|08/09/25|Joseph Alexis Huamani Mandujano y Mathias Andre Mendoza Carrion|Se agregaron las conclusiones y la bibliografía|
+|1.4|09/09/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano|Se agregó el Student Outcome y la Tabla de Contenido|
+|2.0|09/09/25|Jeremy Joel Quispe Andia e Ian Haziel Donato Santisteban Palomino|Se inició el Capítulo III: Arquitectura y se agregó contenido relacionado con los Style Guidelines|
+|2.1|10/09/25|Jeremy Joel Quispe Andia|Se agregó contenido relacionado con la Information Architecture|
+|2.1.1|10/09/25|Ian Haziel Donato Santisteban Palomino|Se comenzó con Mobile Applications UX/UI Design|
+|2.1.2|11/09/25|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado al Domain-Driven Software Architecture.|
+|2.1.3|11/09/25|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado al Software Object-Oriented Design|
+|2.1.4|12/09/25|Ian Haziel Donato Santisteban Palomino, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion|Se comenzó con Landing Page UI Design.|
+|2.1.5|13/09/25|Ian Haziel Donato Santisteban Palomino|Se terminó de agregar Mobile Applications UX/UI Design|
+|2.1.6|13/09/25|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se terminó de agregar Landing Page UI Design.|
+|2.1.7|14/09/25|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia|Se agregó contenido relacionado con Conclusiones y Anexos.|
 
 <br><br>
 
@@ -112,13 +112,8 @@
 
 ### [Conclusiones](#conclusiones)
   - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video App Validation](#video-app-validation)
-  - [Video About the product](#video-about-the-product)
-  - [Video About the team](#video-about-the-team)
 
 ### [Bibliografía](#bibliografía)
-
-### [Anexos](#anexos)
 
 
 <div align="justify">
@@ -1811,297 +1806,6 @@ Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWd
 
 Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
 <br><br>
-En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*.Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).
-<br><br>
-Tomamos como historia de usuario base la historia de usuario US12: Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar
-
-<br>
-
-<table>
-  <tr>
-    <th># Orden</th>
-    <th>User Story Id</th>
-    <th>Título</th>
-    <th>Descripción</th>
-    <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
-    <th>EPIC ID</th>
-  </tr>
-  
-  <!-- EPIC ID: EP01 -->
-  <tr>
-    <td>1</td>
-    <td><strong>US20</strong></td>
-    <td>Adquirir la suscripción premium</td>
-    <td>Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.</td>
-    <td>8</td>
-    <td rowspan="10"><strong>EP01</strong></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td><strong>US09</strong></td>
-    <td>Eliminación de cuenta</td>
-    <td>Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación.</td>
-    <td>3</td>
-    
-  </tr>
-  <tr>
-    <td>3</td>
-    <td><strong>US23</strong></td>
-    <td>Gestionar mis favoritos en la aplicación</td>
-    <td>Como usuario de la aplicación, quiero poder acceder a los objetos que he guardado como favoritos, para poder visualizarlos y eliminar los que ya no me interesen.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td><strong>US24</strong></td>
-    <td>Ver reseñas recibidas</td>
-    <td>Como usuario de la aplicación, quiero poder ver las reseñas y calificaciones que he recibido, para tener una referencia de mi reputación en la plataforma..</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td><strong>US01</strong></td>
-    <td>Registro de usuario</td>
-    <td>Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td><strong>US21 </strong></td>
-    <td>Cancelar una suscripción</td>
-    <td>Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td><strong>US02</strong></td>
-    <td>Editar perfil del usuario</td>
-    <td>Como usuario ya registrado quiero realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td><strong>US04</strong></td>
-    <td>Cambiar Contraseña</td>
-    <td>Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td><strong>US03</strong></td>
-    <td>Iniciar sesión en la aplicación</td>
-    <td>Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td><strong>US05</strong></td>
-    <td>Cerrar Sesión</td>
-    <td>Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo móvil.</td>
-    <td>1</td>
-  </tr>
-
-  <!-- EPIC ID: EP02 -->
-  <tr>
-    <td>11</td>
-    <td><strong>US06</strong></td>
-    <td>Filtrado de Objetos</td>
-    <td>Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.</td>
-    <td>5</td>
-    <td rowspan="10"><strong>EP02</strong></td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td><strong>US12</strong></td>
-    <td>Crear publicación de intercambio</td>
-    <td>Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td><strong>US16</strong></td>
-    <td>Visualización de objetos disponibles para intercambio</td>
-    <td>Como usuario, necesito poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td><strong>US19</strong></td>
-    <td>Ver la información detallada de un producto publicado</td>
-    <td>Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td><strong>US11</strong></td>
-    <td>Realización de una oferta de intercambio</td>
-    <td>Como usuario de la aplicación de intercambio, quiero seleccionar uno de mis artículos y enviarlo como oferta de intercambio, para poder ofrecerlo a cambio de otro artículo publicado por otro usuario.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td><strong>US13</strong></td>
-    <td>Editar publicación de intercambio</td>
-    <td>Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>17</td>
-    <td><strong>US15</strong></td>
-    <td>Gestión de intercambios</td>
-    <td>Como usuario de la aplicación, quiero revisar el estado de los intercambios que he enviado, recibido o aceptado, para poder ver los detalles y gestionar mis transacciones de intercambio de manera eficiente.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>18</td>
-    <td><strong>US18</strong></td>
-    <td>Aceptar o Rechazar un Intercambio</td>
-    <td>Como usuario que ha recibido una oferta de intercambio, quiero poder revisar los detalles de la oferta y tomar una decisión para aceptar o rechazar el intercambio, para poder gestionar mis transacciones de manera eficiente y asegurada.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>19</td>
-    <td><strong>US10</strong></td>
-    <td>Visualización de artículos publicados para intercambio</td>
-    <td>Como usuario de la aplicación de intercambio, quiero ver los artículos que he publicado, para revisar cuáles están disponibles para intercambio.</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>20</td>
-    <td><strong>US14</strong></td>
-    <td>Eliminar publicación de intercambio</td>
-    <td>Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.</td>
-    <td>2</td>
-  </tr>
-
-  <!-- EPIC ID: EP03 -->
-  <tr>
-    <td>21</td>
-    <td><strong>US07</strong></td>
-    <td>Visualización de ONGs registradas y filtrado</td>
-    <td>Como usuario Donante, quiero visualizar la lista de ONGs registradas y poder filtrarlas por nombre usando el buscador, para encontrar la ONG específica en la cual me gustaría hacer mi donación.</td>
-    <td>5</td>
-    <td rowspan="4"><strong>EP03</strong></td>
-  </tr>
-  <tr>
-    <td>22</td>
-    <td><strong>US08</strong></td>
-    <td>Brindar reseña sobre el Intercambiador</td>
-    <td>Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>23</td>
-    <td><strong>US17</strong></td>
-    <td>Visualizar el perfil del usuario que publique un producto</td>
-    <td>Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>24</td>
-    <td><strong>US22</strong></td>
-    <td>Visualizar el perfil de las ONG’s registradas</td>
-    <td>Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.</td>
-    <td>3</td>
-  </tr>
-
-  <!-- EPIC ID: EP04 -->
-  <tr>
-    <td>25</td>
-    <td><strong>US27</strong></td>
-    <td>Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.</td>
-    <td>Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.</td>
-    <td>5</td>
-    <td rowspan="6"><strong>EP04</strong></td>
-  </tr>
-  <tr>
-    <td>26</td>
-    <td><strong>US30</strong></td>
-    <td>Navegación en la Landing Page</td>
-    <td>Como usuario visitante, deseo contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>27</td>
-    <td><strong>US29</strong></td>
-    <td>Ver los planes y precios</td>
-    <td>Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de descargar la aplicación.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>28</td>
-    <td><strong>US26</strong></td>
-    <td>Visualizar las características clave de la aplicación</td>
-    <td>Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>29</td>
-    <td><strong>US28</strong></td>
-    <td>Acceder a la página principal de CambiaZo</td>
-    <td>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo móvil.</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>30</td>
-    <td><strong>US25</strong></td>
-    <td>Visualización de la Historia de la Startup</td>
-    <td>Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.</td>
-    <td>1</td>
-  </tr>
-
-  <!-- EPIC ID: EP05 -->
-  <tr>
-    <td>31</td>
-    <td><strong>TS01</strong></td>
-    <td>API User</td>
-    <td>Como usuario desarrollador que configura la plataforma quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.</td>
-    <td>5</td>
-    <td rowspan="5"><strong>EP05</strong></td>
-  </tr>
-  <tr>
-    <td>32</td>
-    <td><strong>TS02</strong></td>
-    <td>API Review</td>
-    <td>Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar reseñas a otros usuarios para mejorar la interacción entre usuarios y la plataforma.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>33</td>
-    <td><strong>TS03</strong></td>
-    <td>API ONGs</td>
-    <td>Como usuario developer que configura la plataforma quiero diseñar una API que simplifique la obtención de información sobre las ONGs para integrarla de manera efectiva en la aplicación.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>34</td>
-    <td><strong>TS04</strong></td>
-    <td>API Memberships</td>
-    <td>Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>35</td>
-    <td><strong>TS05</strong></td>
-    <td>API Object</td>
-    <td>Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.</td>
-    <td>5</td>
-  </tr>
-</table>
-<br>
-
-
-A continuación se presenta una representación gráfica del mismo en la plataforma Pivotal Tracker:
-
-<div align="center">
-
-[![Product Backlog.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)](https://www.pivotaltracker.com/n/projects/2699481)
-</div>
-
-
-Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
-
-
 
 <div style="page-break-after: always;"></div>
 
@@ -2113,6 +1817,8 @@ Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/pro
 En el primer capítulo, desarrollamos la presentación de nuestra startup, donde detallamos su perfil, incluyendo la descripción de la empresa y los perfiles de los integrantes del equipo. Además, abordamos los antecedentes y la problemática que nuestra solución busca resolver. Utilizamos el proceso Lean UX para estructurar la definición del problema, lo que nos permitió plantear suposiciones, formular hipótesis y diseñar un Lean UX Canvas. Este enfoque fue clave para identificar claramente los desafíos y oportunidades, asegurando que nuestra solución esté alineada con las necesidades del mercado.
 
 En el segundo capítulo, nos centramos en el proceso de Needfinding, donde identificamos las necesidades del mercado. Realizamos un análisis competitivo, comparando nuestra startup con los principales competidores, y definimos estrategias y tácticas para diferenciarnos en el mercado. También llevamos a cabo entrevistas y observaciones con usuarios potenciales, lo que nos permitió comprender a fondo los problemas y expectativas de nuestros clientes, garantizando que nuestra solución no solo sea viable, sino también altamente deseada por el mercado objetivo.
+
+En conclusión, el trabajo desarrollado hasta este punto sienta bases sólidas para la validación de nuestra propuesta. Hemos logrado comprender las necesidades reales del mercado, identificar un espacio de diferenciación frente a la competencia y estructurar una solución con fundamentos claros. Este avance nos prepara para los siguientes capítulos, donde profundizaremos en el diseño, desarrollo y validación de la aplicación, consolidando así el camino hacia una propuesta innovadora, sostenible y alineada con nuestro objetivo de generar impacto positivo.
 
 
 <div style="page-break-after: always;"></div>
