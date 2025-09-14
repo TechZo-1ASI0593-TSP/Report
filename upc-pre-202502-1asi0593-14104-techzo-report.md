@@ -14,7 +14,7 @@
 **Profesor:** Christian Luis De Los Rios Fernandez
 
 ----
-## Informe del Trabajo Final
+## Informe TB1
 ### Nombre del Startup: TechZo
 
 ### Nombre del Producto: CambiaZo
