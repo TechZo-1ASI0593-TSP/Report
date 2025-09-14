@@ -503,6 +503,7 @@ Plataforma en línea que permite a los usuarios intercambiar servicios y artícu
 * **Me Sirve**<br>
 Aplicación móvil que ofrece una forma conveniente de intercambiar y adquirir artículos de segunda mano. Los usuarios pueden publicar lo que tienen para intercambiar, buscar lo que necesitan y comunicarse directamente con otros usuarios para concretar los intercambios.<br><br>
 
+
 ### 2.1.1 Análisis Competitivo
 
 En esta sección se realizará el análisis competitivo de los competidores identificados en la sección inicial con el objetivo de tener una idea más clara sobre nuestro producto frente a los competidores y aprender para mejorar nuestro producto.
@@ -519,62 +520,40 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td colspan="4">Este análisis se lleva a cabo para poder investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado</td>
   </tr>
   <tr>
-    <td colspan="2">
-        <div align="center">Nombre</div>
-    </td>
-    <td>
-		<div align="center">Cambiazo<br></div>
-	</td>
-    <td>
-		<div align="center">Trueques.com</div>
-	</td>
-    <td>
-		<div align="center">Haztruequing</div>
-	</td>
-    <td>
-		<div align="center">Me Sirve</div>
-	</td>
+    <td colspan="2"><div align="center">Nombre</div></td>
+    <td><div align="center">Cambiazo</div></td>
+    <td><div align="center">Trueques.com</div></td>
+    <td><div align="center">Haztruequing</div></td>
+    <td><div align="center">Me Sirve</div></td>
   </tr>
   <tr>
-    <td colspan="2">
-        <div align="center">Logo</div>
-    </td>
-    <td>
-		<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/logo-cambiazo.png?raw=true"alt="Cambiazo logo" /></div>
-		</td>
-    <td>
-		<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-trueques.PNG?raw=true"alt="Trueques.com logo" /></div>
-		</td>
-    <td>
-		<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-haztruequing.png?raw=true"alt="Haztruequing logo" /></div>
-		</td>
-    <td>
-		<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-mesirve.png?raw=true"alt="Me sirve logo" /></div>
-		</td>
+    <td colspan="2"><div align="center">Logo</div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/logo-cambiazo.png?raw=true" alt="Cambiazo logo" width="100"/></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-trueques.PNG?raw=true" alt="Trueques.com logo" width="100"/></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-haztruequing.png?raw=true" alt="Haztruequing logo" width="100"/></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-mesirve.png?raw=true" alt="Me sirve logo" width="100"/></div></td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td>Aplicación móvil que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.
-	</td>
+    <td>Aplicación móvil que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.</td>
     <td>Página Web para intercambio de bienes y servicios entre usuarios, fomentando la economía colaborativa y la reutilización de recursos.</td>
     <td>Plataforma para intercambiar servicios y artículos de segunda mano de manera gratuita, promoviendo un estilo de vida sostenible y consciente.</td>
     <td>App para intercambiar bienes y servicios de manera segura y eficiente, promoviendo la reutilización y la solidaridad entre usuarios.</td>
   </tr>
   <tr>
-    <td>Ventaja Competitiva <br>¿Qué valor ofrece a los clientes?</td>
-    <td>Intercambio de productos o servicios. <br><br>Donación de objetos a ONGs afiliadas</td>
+    <td>Ventaja Competitiva<br>¿Qué valor ofrece a los clientes?</td>
+    <td>Intercambio de productos o servicios.<br><br>Donación de objetos a ONGs afiliadas</td>
     <td>Intercambio directo de bienes y servicios sin dinero, fomentando la reutilización y colaboración.</td>
     <td>Intercambio de servicios y artículos de segunda mano, promoviendo un estilo de vida sostenible.</td>
-    <td>Intercambio bienes y servicios, promoviendo la reutilización y la solidaridad.
-</td>
+    <td>Intercambio de bienes y servicios, promoviendo la reutilización y la solidaridad.</td>
   </tr>
   <tr>
-    <td rowspan="2">Perfiles de Marketing<br></td>
-    <td>Mercado Objetivo<br></td>
-    <td>Personas interesadas en  intercambiar o donar sus pertenencias.</td>
-    <td>Personas que buscan intercambiar productos y servicios</td>
-    <td>Personas interesados en intercambiar servicios y artículos de segunda mano</td>
+    <td rowspan="2">Perfiles de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Personas interesadas en intercambiar o donar sus pertenencias.</td>
+    <td>Personas que buscan intercambiar productos y servicios.</td>
+    <td>Personas interesados en intercambiar servicios y artículos de segunda mano.</td>
     <td>Usuarios interesados en darle un nuevo propósito a sus pertenencias mediante intercambios.</td>
   </tr>
   <tr>
@@ -585,7 +564,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td>Publicidad en redes sociales</td>
   </tr>
   <tr>
-    <td rowspan="3">Perfil de Producto<br></td>
+    <td rowspan="3">Perfil de Producto</td>
     <td>Productos &amp; Servicios</td>
     <td>Intercambiar bienes o servicios, donar a ONGs</td>
     <td>Intercambiar bienes o servicios</td>
@@ -631,8 +610,8 @@ En esta sección se realizará el análisis competitivo de los competidores iden
   <tr>
     <td>Amenazas</td>
     <td>Al ser una aplicación nueva, puede que no tenga la demanda esperada.<br><br>Competencia de otras plataformas.<br>Cambios en las preferencias del usuario.</td>
-    <td>Mejor organizacion del sitio web<br><br>Cambios en las preferencias del usuario.</td>
-    <td>Mejor interfaz, mas amigable e intuitiva<br><br>Cambios en las preferencias del usuario.</td>
+    <td>Mejor organización del sitio web.<br><br>Cambios en las preferencias del usuario.</td>
+    <td>Mejor interfaz, más amigable e intuitiva.<br><br>Cambios en las preferencias del usuario.</td>
     <td>Mejorar la seguridad de datos y privacidad de usuarios.<br><br>Cambios en las preferencias del usuario.</td>
   </tr>
 </tbody>
