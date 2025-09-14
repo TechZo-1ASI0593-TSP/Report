@@ -373,9 +373,10 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
             <div align="center"><br><b>Solutions</b></div><br>
             <ul>
             <li>Desarrollar una aplicación móvil para facilitar el intercambio de objetos entre usuarios.</li><br>
-            <li>Permitir la donación de bienes a organizaciones benéficas.</li><br>
             <li>Implementar opciones de búsqueda y comunicación entre usuarios para coordinar intercambios.</li><br>
-            <li>Incluir funcionalidades para registrar donaciones y asegurar transacciones seguras.</li><br>
+            <li>Integrar una pasarela de pagos para la gestión de planes premium o servicios adicionales dentro de la aplicación.</li><br>
+            <li>Incorporar un sistema de sugerencias con IA para recomendar posibles intercambios y donaciones según intereses y preferencias de los usuarios.</li><br>
+            <li>Integrar una pasarela de pagos para la gestión de planes premium o servicios adicionales dentro de la aplicación.</li><br>
             </ul><br>
         </td>
         <td valign="top">
